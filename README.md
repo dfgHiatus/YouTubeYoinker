@@ -8,4 +8,4 @@ A multi-threaded Youtube Downloader allowing for a virtually arbitrary number of
 3. Optionally, specify a directory you'd like to save your songs to in dir.txt.
 4. Run RUN.bat, or execute however you'd like
 
-Note: The progress bar is currently broken as all downloading songs will try to update it at the same time. Rest assured, this does is working
+Note: The progress bar is currently broken as all downloading songs will try to update it at the same time. Rest assured, this does is working. GUI is WIP
