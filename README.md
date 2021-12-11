@@ -1,6 +1,6 @@
 # YouTubeYoinker
 
-A multi-threaded Youtube Downloader allowing for a virtually arbitrary number of songs to be downloaded at once. Made with Python 3.8 64-Bit, currently defaults to 4 threads/concurrent downloads but may easily modified.
+A multi-threaded Youtube Downloader allowing for a virtually arbitrary number of songs to be downloaded at once. Made with Python 3.8 64-Bit, currently defaults to 4 threads/concurrent downloads but may easily be modified.
 
 # Usage:
 1. Paste in Youtube Video URLs in songURLs.txt
